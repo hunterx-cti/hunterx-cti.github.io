@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hunterx-cti.github.io/sitemap.xml
