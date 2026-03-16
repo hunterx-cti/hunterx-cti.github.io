@@ -19,7 +19,7 @@ a:hover {
 
 header {
     background-color: #111111;
-    padding: 15px;
+    padding: 15px 30px; /* augmenter le padding gauche/droite pour que les liens rentrent */
     position: fixed;
     width: 100%;
     top: 0;
@@ -34,7 +34,10 @@ header h1 {
 }
 
 nav {
-    float: right;
+    display: flex;
+    gap: 20px;      /* espace entre chaque lien */
+    justify-content: flex-end;
+    align-items: center;
 }
 
 nav a {
@@ -69,4 +72,11 @@ article {
 }
 main {
     padding: 80px 20px 60px 20px; /* bottom padding = 60px pour le footer */
+}
+@media screen and (max-width: 768px) {
+    nav {
+        flex-direction: column;
+        gap: 10px;
+        text-align: center;
+    }
 }
