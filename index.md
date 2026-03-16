@@ -18,7 +18,13 @@ Welcome to **HunterX Threat Intelligence Lab**, a professional Cyber Threat Inte
 - [Tools & Frameworks](tools.md)
 
 ---
+## Latest Report: Predator Spyware
 
+**Predator spyware** is a sophisticated mobile spyware targeting Android and iOS devices. Our latest analysis covers its **architecture, infrastructure, attack lifecycle, and IOC**.
+
+[Read Full Article →](predator-spyware.md)
+
+---
 ## Latest Posts
 
 ### Investigating a Malicious SMS Phishing Campaign
