@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+    <header>
+        <h1><a href="/">{{ site.title }}</a></h1>
+        <nav>
+            <a href="about.md">About</a>
+            <a href="threat-reports.md">Threat Reports</a>
+            <a href="malware-analysis.md">Malware Analysis</a>
+            <a href="osint.md">OSINT</a>
+            <a href="tools.md">Tools</a>
+        </nav>
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <div class="sidebar">
+        <h3>Quick Links</h3>
+        <ul>
+            <li><a href="threat-reports.md">Latest Threat Reports</a></li>
+            <li><a href="malware-analysis.md">Malware Analysis</a></li>
+            <li><a href="osint.md">OSINT Investigations</a></li>
+            <li><a href="tools.md">Tools & Scripts</a></li>
+            <li><a href="about.md">About the Analyst</a></li>
+        </ul>
+    </div>
+</body>
+</html>
