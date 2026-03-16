@@ -5,7 +5,7 @@ title: HunterX Threat Intelligence Lab
 
 # HunterX Threat Intelligence Lab
 
-Welcome to **HunterX Threat Intelligence Lab**, a professional Cyber Threat Intelligence (CTI) blog dedicated to analyzing real-world cyber threats, malware campaigns, phishing infrastructures, and conducting OSINT investigations.  
+Welcome to **HunterX Threat Intelligence Lab**, a professional Cyber Threat Intelligence blog dedicated to analyzing real-world cyber threats, malware campaigns, phishing infrastructures, and conducting OSINT investigations.  
 
 ---
 
