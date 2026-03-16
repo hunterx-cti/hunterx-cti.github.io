@@ -1,0 +1,23 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [HunterX Threat Intelligence Lab]
+description: [Cyber Threat Intelligence blog analyzing malware, phishing campaigns, OSINT investigations, and threat actors.]
+baseurl: [""]
+url: ["https://hunterx-cti.github.io"]
+
+theme: [hacker]
+
+navigation:
+  - title: [Home]
+    url: [index.md]
+  - title: [About]
+    url: [about.md]
+  - title: [Threat Reports]
+    url: [threat-reports.md]
+  - title: [Malware Analysis]
+    url: [malware-analysis.md]
+  - title: [OSINT Investigations]
+    url: [osint.md]
+  - title: [Tools]
+    url: [tools.md]
