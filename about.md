@@ -1,16 +1,30 @@
+---
+layout: default
+title: About the Analyst
+---
+
 # About the Analyst
 
-Cyber Threat Intelligence Analyst specializing in:
+Welcome to **HunterX Threat Intelligence Lab**.
 
-- Threat infrastructure tracking
-- Malware analysis
-- Phishing campaign investigation
-- OSINT intelligence gathering
+I am a Cyber Threat Intelligence Analyst specializing in:
 
-Tools:
+- Malware and spyware analysis  
+- Phishing campaign investigations  
+- Threat actor infrastructure tracking  
+- OSINT intelligence gathering  
 
-- Python
-- Kali Linux
-- Maltego
-- Shodan
-- VirusTotal
+## Tools & Expertise
+
+- Python (automation & analysis scripts)  
+- Kali Linux (penetration & investigation)  
+- Maltego (graph-based intelligence analysis)  
+- Shodan (IoT & server scanning)  
+- VirusTotal & Threat Intelligence feeds  
+
+---
+
+## Navigation
+
+- ← Home [HunterX Lab Home](index.md)  
+- Next → [Threat Reports](threat-reports.md)
