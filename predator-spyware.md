@@ -1,8 +1,8 @@
 ---
-layout: default
-title: [Predator Spyware Exposed: Architecture, Infrastructure, and Attack Lifecycle]
-description: [Professional Cyber Threat Intelligence analysis of Predator spyware, including architecture, infrastructure, attack lifecycle, indicators of compromise, and mitigation strategies.]
-keywords: [Predator spyware, malware analysis, CTI, threat intelligence, OSINT, cyber threat, Android spyware, iOS spyware]
+layout: "default"
+title: "Predator Spyware Exposed: Architecture, Infrastructure, and Attack Lifecycle"
+description: "Professional Cyber Threat Intelligence analysis of Predator spyware, including architecture, infrastructure, attack lifecycle, indicators of compromise, and mitigation strategies."
+keywords: "Predator spyware, malware analysis, CTI, threat intelligence, OSINT, cyber threat, Android spyware, iOS spyware"
 ---
 
 # Predator Spyware Exposed: Architecture, Infrastructure, and Attack Lifecycle
