@@ -7,16 +7,11 @@ title: Threat Reports
 
 In-depth analyses of real-world cyber threats and campaigns.
 
-## Recent Reports
+## Featured Reports
 
-### Malicious SMS Phishing Campaign
-Investigation of SMS-based phishing distributing Android spyware.
-
-### Banking Phishing Infrastructure
-Analysis of domains, hosting, and tactics used to target banking users.
-
-### Credential Harvesting Attacks
-Tracking of multiple phishing domains used to steal user credentials globally.
+### Predator Spyware Exposed
+A comprehensive CTI report on Predator spyware: architecture, infrastructure, attack lifecycle, IOC, and mitigation strategies.  
+[Read Full Report →](predator-spyware.md)
 
 ---
 
